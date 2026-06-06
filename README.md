@@ -27,5 +27,6 @@ Practical experiments focused on reducing manual work through automation.
 
 ## Connect 
 - [LinkedIn](https://www.linkedin.com/in/anibal-arias)
-- [Website](https://tambormayor.com)
 - [GitHub](https://github.com/anibal-tech)
+- [Website](https://estha.com.mx)
+- [Website](https://tambormayor.com)
