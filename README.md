@@ -23,7 +23,7 @@ The goal is not to showcase volume, but clarity: how software initiatives are st
 - **[Software Delivery Playbook](https://github.com/anibal-tech/software-delivery-playbook)**  
   Notes and templates for branching strategies, pull requests, code reviews, releases, and Definition of Done.
 
-- **Architecture Notes** *(in progress)*  
+- **[Architecture Notes](https://github.com/anibal-tech/architecture-notes)**  
   Lightweight documentation for technical decisions, API design, and system thinking.
 
 - **Business Automation Lab** *(in progress)*  
