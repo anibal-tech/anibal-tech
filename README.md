@@ -31,9 +31,9 @@ The goal is not to showcase volume, but clarity: how software initiatives are st
 - **[Architecture Notes](https://github.com/anibal-tech/architecture-notes)**  
   Lightweight documentation for technical decisions, API design, integration patterns, and system thinking.
 
- **[Business Automation Lab](https://github.com/anibal-tech/business-automation-lab)**  
+- **[Business Automation Lab](https://github.com/anibal-tech/business-automation-lab)**  
   Practical automation experiments focused on reducing manual work, improving operational visibility, and supporting process improvement.
-
+  
 ## Portfolio direction
 
 This portfolio reflects my interest in connecting leadership, technology, and execution.
