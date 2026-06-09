@@ -29,8 +29,9 @@ The goal is not to showcase volume, but clarity: how software initiatives are st
 - **Business Automation Lab** *(in progress)*  
   Practical experiments focused on reducing manual work through automation.
 
-  ## Connect 
+  ## Connect
+
 - [LinkedIn](https://www.linkedin.com/in/anibal-arias)
 - [GitHub](https://github.com/anibal-tech)
-- [Website](https://estha.com.mx)
-- [Website](https://tambormayor.com)
+- [Professional website](https://estha.com.mx)
+- [Tambor Mayor](https://tambormayor.com)
