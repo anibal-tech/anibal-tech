@@ -25,11 +25,11 @@ The goal is not to showcase volume, but clarity: how software initiatives are st
 
 Recommended starting points:
 
-- For applied AI and productivity workflows, start with **Project AI Email Secretary**.
-- For AI-assisted research, RAG, embeddings, and LLM evaluation, review **AI Research Proposal RAG**.
-- For delivery governance, UAT, cutover, hypercare, RAID, incident RCA, ERP stabilization, and operational readiness, review **Software Delivery Playbook**.
-- For architecture documentation, technical decisions, Azure migration readiness, EDI validation, API design, and integration patterns, review **Architecture Notes**.
-- For practical automation, executive reporting, RAID summaries, benefits tracking, and AI-assisted prompt packs, review **Business Automation Lab**.
+- For applied AI and productivity workflows, start with **[Project AI Email Secretary](https://github.com/anibal-tech/project-ai-email-secretary)**.
+- For AI-assisted research, RAG, embeddings, and LLM evaluation, review **[AI Research Proposal RAG](https://github.com/anibal-tech/ai-research-proposal-rag)**.
+- For delivery governance, UAT, cutover, hypercare, RAID, incident RCA, ERP stabilization, and operational readiness, review **[Software Delivery Playbook](https://github.com/anibal-tech/software-delivery-playbook)**.
+- For architecture documentation, technical decisions, Azure migration readiness, EDI validation, API design, and integration patterns, review **[Architecture Notes](https://github.com/anibal-tech/architecture-notes)**.
+- For practical automation, executive reporting, RAID summaries, benefits tracking, and AI-assisted prompt packs, review **[Business Automation Lab](https://github.com/anibal-tech/business-automation-lab)**.
 
 ## Featured repositories
 
