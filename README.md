@@ -21,6 +21,16 @@ This space is a curated professional portfolio focused on selected projects, tec
 
 The goal is not to showcase volume, but clarity: how software initiatives are structured, documented, improved, evaluated, and connected to business value.
 
+## Portfolio navigation
+
+Recommended starting points:
+
+- For applied AI and productivity workflows, start with **Project AI Email Secretary**.
+- For AI-assisted research, RAG, embeddings, and LLM evaluation, review **AI Research Proposal RAG**.
+- For delivery governance, UAT, cutover, hypercare, RAID, incident RCA, ERP stabilization, and operational readiness, review **Software Delivery Playbook**.
+- For architecture documentation, technical decisions, Azure migration readiness, EDI validation, API design, and integration patterns, review **Architecture Notes**.
+- For practical automation, executive reporting, RAID summaries, benefits tracking, and AI-assisted prompt packs, review **Business Automation Lab**.
+
 ## Featured repositories
 
 - **[Project AI Email Secretary](https://github.com/anibal-tech/project-ai-email-secretary)**  
