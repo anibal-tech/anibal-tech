@@ -40,13 +40,13 @@ Recommended starting points:
   RAG-based AI workflow for research proposal automation using LangChain, FAISS, embeddings, and LLM-as-Judge evaluation.
 
 - **[Software Delivery Playbook](https://github.com/anibal-tech/software-delivery-playbook)**  
-  Notes and templates for branching strategies, pull requests, code reviews, releases, UAT, cutover, hypercare, RAID, incident RCA, operational readiness, and Definition of Done.
+  Notes and templates for branching strategies, pull requests, code reviews, releases, UAT, cutover, hypercare, RAID, incident RCA, operational readiness, ERP stabilization, and Definition of Done.
 
 - **[Architecture Notes](https://github.com/anibal-tech/architecture-notes)**  
-  Lightweight documentation for technical decisions, API design, integration patterns, Azure migration readiness, EDI validation, and system thinking.
+  Lightweight documentation for technical decisions, API design, Azure migration readiness, EDI validation, integration patterns, and system thinking.
 
 - **[Business Automation Lab](https://github.com/anibal-tech/business-automation-lab)**  
-  Practical automation experiments focused on reducing manual work, improving operational visibility, executive reporting, benefits tracking, RAID summaries, and process improvement.
+  Practical automation experiments focused on reducing manual work, improving operational visibility, executive reporting, benefits tracking, RAID summaries, prompt packs, and process improvement.
 
 ## Portfolio direction
 
